@@ -1,1 +1,2 @@
 ¡Hola de nuevo!
+Nueva línea en archivoA
